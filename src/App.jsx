@@ -1,11 +1,14 @@
 import React from 'react';
 import './App.css';
 import Footer from './components/Footer';
+import Input from './components/Input';
 
 function App() {
   return (
     <>
-      <main>inicio</main>
+      <main>
+        <Input />
+      </main>
       <Footer />
     </>
   );
