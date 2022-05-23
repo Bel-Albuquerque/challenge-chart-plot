@@ -6,16 +6,6 @@ html, body { height: 100%;}
   flex-direction: column;
 }
 
-#chart {
-  height: calc(100vh - 50px);
-}
-
-#VictoryContainer {
-  width: 70%;
-  height: auto;
-  z-index: 10000;
-}
-
 footer {
 height: 50px;
 background-color: #dddee1;
